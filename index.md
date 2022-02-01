@@ -7,7 +7,7 @@ I received an MEng and BS in computer science from MIT.
 
 [Renée: New Life for Old Phones](https://ieeexplore.ieee.org/document/9695989)<br/>
 J. Switzer, E. Siu, S. Ramesh, R. Hu, E. Zadorian and R. Kastner<br/>
-IEEE Embedded Systems Letters.
+IEEE Embedded Systems Letters. 2022.
 
 [Information Batteries: Storing Opportunity Power with Speculative Execution](https://dl.acm.org/doi/abs/10.1145/3508467.3508468)<br/>
 Jennifer Switzer and Barath Raghavan<br/>
