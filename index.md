@@ -15,6 +15,10 @@ SIGENERGY Energy Informatics Review 1, 1 (November 2021), 1–11.
 
 Matt Simon at Wired wrote a [very nice article](https://www.wired.com/story/maybe-green-energy-needs-information-batteries-too/) about this work.
 
+[Architecture of a Junkyard Datacenter](https://arxiv.org/abs/2110.06870)<br/>
+**Jennifer Switzer**, Ryan Kastner, Pat Pannuto<br/>
+arXiv:2110.06870, October 2021.
+
 [Flexible Computing for Intermittent Energy](https://dl.acm.org/doi/pdf/10.1145/3466861)<br/>
 **Jennifer Switzer**<br/>
 XRDS: Crossroads, The ACM Magazine for Students. Volume 27, Issue 4. Summer 2021.
