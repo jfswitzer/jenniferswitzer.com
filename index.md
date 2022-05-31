@@ -34,14 +34,15 @@ Invited Talk for the [Green G Working Group](https://nextgalliance.org/working_g
 
 **Junkyard datacenters: Carbon-efficient computing systems from old phones** (short version)<br/>
 UCSD CNS Research Review. 4-29-22.<br/>
-Slides can be found [here](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/15_minute_talk_jfs.pdf).<br/>
+[Slides](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/15_minute_talk_jfs.pdf).<br/>
 
 **Junkyard datacenters: Carbon-efficient computing systems from old phones** (long version)<br/>
 Guest Lecture for [CSE 291: The Environmental Impact of Modern Computing](https://cseweb.ucsd.edu//classes/sp22/cse291-f/). 4-25-22.<br/>
-Slides can be found [here](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/40_minute_talk_jfs.pdf).<br/>
+[Slides](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/40_minute_talk_jfs.pdf).<br/>
 
 ## Contact
 jfswitze[at]ucsd[dot]edu<br/>
-[Google Scholar](https://scholar.google.com/citations?user=G4g9E3UAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=G4g9E3UAAAAJ&hl=en)<br/>
+CV
 
 Last updated 5-31-2022.
