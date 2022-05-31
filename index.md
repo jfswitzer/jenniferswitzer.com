@@ -28,13 +28,16 @@ Andre Aboulian, Daisy H Green, Jennifer F Switzer, Thomas J Kane, Gregory V Bred
 IEEE Transactions on Industrial Informatics. Volume 15, Issue 3. June 2018.
 
 ## Talks
-**Invited Talk for the [Green G Working Group](https://nextgalliance.org/working_group/green-g/)**. 5-6-22.
+**Beyond operational efficiency: Nontraditional efforts for carbon-efficient computing**
+Invited Talk for the [Green G Working Group](https://nextgalliance.org/working_group/green-g/). 5-6-22.
+[Slides](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/green_g_talk.pdf).<br/>
+
+**Junkyard datacenters: Carbon-efficient computing systems from old phones** (short version)
+UCSD CNS Research Review. 4-29-22.
 Slides can be found [here](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/15_minute_talk_jfs.pdf).<br/>
 
-**UCSD CNS Research Review** 4-29-22.
-Slides can be found [here](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/15_minute_talk_jfs.pdf).<br/>
-
-**Guest Lecture for CSE 291: The Environmental Impact of Modern Computing** 4-25-22.
+**Junkyard datacenters: Carbon-efficient computing systems from old phones** (long version)
+Guest Lecture for [CSE 291: The Environmental Impact of Modern Computing](https://cseweb.ucsd.edu//classes/sp22/cse291-f/). 4-25-22.
 Slides can be found [here](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/40_minute_talk_jfs.pdf).<br/>
 ## Contact
 jfswitze[at]ucsd[dot]edu<br/>
