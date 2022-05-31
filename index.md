@@ -27,8 +27,17 @@ arXiv:2102.06614, February 2021.
 Andre Aboulian, Daisy H Green, Jennifer F Switzer, Thomas J Kane, Gregory V Bredariol, Peter Lindahl, John S Donnal, Steven B Leeb<br/>
 IEEE Transactions on Industrial Informatics. Volume 15, Issue 3. June 2018.
 
+## Talks
+**Invited Talk for the [Green G Working Group](https://nextgalliance.org/working_group/green-g/)**. 5-6-22.
+Slides can be found [here](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/15_minute_talk_jfs.pdf).
+
+**UCSD CNS Research Review** 4-29-22.
+Slides can be found [here](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/15_minute_talk_jfs.pdf).
+
+**Guest Lecture for CSE 291: The Environmental Impact of Modern Computing** 4-25-22.
+Slides can be found [here](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/40_minute_talk_jfs.pdf).
 ## Contact
 jfswitze[at]ucsd[dot]edu<br/>
 [Google Scholar](https://scholar.google.com/citations?user=G4g9E3UAAAAJ&hl=en)
 
-Last updated 1-31-2022.
+Last updated 5-31-2022.
