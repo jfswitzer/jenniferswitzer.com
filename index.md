@@ -1,9 +1,13 @@
 ## About me
-I am a second year PhD student in Computer Science and Engineering at UCSD, with a research focus on sustainable computing. I am co-advised by Professors Ryan Kastner and Pat Pannuto. 
+I am a third year PhD student in Computer Science and Engineering at UCSD, with a research focus on sustainable computing. I am co-advised by Professors Ryan Kastner and Pat Pannuto. 
 
 I received an MEng and BS in computer science from MIT.
 
 ## Publications, etc 
+
+[Architecture of a Junkyard Cloud](https://arxiv.org/abs/2110.06870)<br/>
+**Jennifer Switzer**, Ryan Kastner, Pat Pannuto<br/>
+ASPLOS 2023 (forthcoming).
 
 [Renée: New Life for Old Phones](https://ieeexplore.ieee.org/document/9695989)<br/>
 **J. Switzer**, E. Siu, S. Ramesh, R. Hu, E. Zadorian and R. Kastner<br/>
@@ -14,10 +18,6 @@ IEEE Embedded Systems Letters. 2022.
 SIGENERGY Energy Informatics Review 1, 1 (November 2021), 1–11.
 
 Matt Simon at Wired wrote a [very nice article](https://www.wired.com/story/maybe-green-energy-needs-information-batteries-too/) about this work.
-
-[Architecture of a Junkyard Datacenter](https://arxiv.org/abs/2110.06870)<br/>
-**Jennifer Switzer**, Ryan Kastner, Pat Pannuto<br/>
-arXiv:2110.06870, October 2021.
 
 [Flexible Computing for Intermittent Energy](https://dl.acm.org/doi/pdf/10.1145/3466861)<br/>
 **Jennifer Switzer**<br/>
@@ -49,4 +49,4 @@ jfswitze[at]ucsd[dot]edu<br/>
 [Google Scholar](https://scholar.google.com/citations?user=G4g9E3UAAAAJ&hl=en)<br/>
 [CV as of May 2022](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/cv.pdf)<br/>
 
-Last updated 5-31-2022.
+Last updated 9-30-2022.
