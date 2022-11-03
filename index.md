@@ -3,6 +3,11 @@ I am a third year PhD student in Computer Science and Engineering at UCSD, with 
 
 I received an MEng and BS in computer science from MIT.
 
+## Current Research
+
+### Junkyard Computing
+Manufacturing electronic devices is an energy-intensive process that dominates the lifetime carbon footprint of consumer electronics like smartphones. Options for dealing with end-of-life phones are limited, leading to a stockpile of environmentally costly, miniature computers. This is particularly unfortunate given that smartphones contain many components that could be useful for other applications—CPUs, GPUs, microphones, etc. **Junkyard computing** studies the repurposing of unwanted smartphones for a wide range of non-consumer applications. We are exploring two pathways: Datacenters and IoT. In the first, old phones are repurposed as general-purpose cloud compute nodes. In the second, they are redeployed as remote sensors. 
+
 ## Publications, etc 
 
 [Architecture of a Junkyard Cloud](https://arxiv.org/abs/2110.06870)<br/>
