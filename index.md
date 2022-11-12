@@ -9,7 +9,8 @@ I received an MEng and BS in computer science from MIT.
 
 ## Publications, etc 
 
-[Architecture of a Junkyard Cloud](https://arxiv.org/abs/2110.06870)<br/>
+[Junkyard Computing: Repurposing Discarded Smartphones to
+Minimize Carbon](https://arxiv.org/abs/2110.06870)<br/>
 **Jennifer Switzer**, Gabriel Marcano, Ryan Kastner, and Pat Pannuto<br/>
 To appear in _International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)._
 
