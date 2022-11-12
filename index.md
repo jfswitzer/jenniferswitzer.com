@@ -10,7 +10,7 @@ I received an MEng and BS in computer science from MIT.
 ## Publications, etc 
 
 [Architecture of a Junkyard Cloud](https://arxiv.org/abs/2110.06870)<br/>
-**Jennifer Switzer**, Ryan Kastner, Pat Pannuto<br/>
+**Jennifer Switzer**, Gabriel Marcano, Ryan Kastner, and Pat Pannuto<br/>
 To appear in _International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)._
 
 [Renée: New Life for Old Phones](https://ieeexplore.ieee.org/document/9695989)<br/>
