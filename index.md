@@ -1,5 +1,7 @@
 ## About me
-I am a third year PhD student in Computer Science and Engineering at UCSD, with a research focus on sustainable computing. I am co-advised by Professors Ryan Kastner and Pat Pannuto. 
+I am a fourth year PhD student in Computer Science and Engineering at UCSD, with a research focus on sustainable computing. I am co-advised by Professors Ryan Kastner and Pat Pannuto. 
+
+I'm very grateful to be supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). 
 
 I received an MEng and BS in computer science from MIT.
 
@@ -53,4 +55,4 @@ jfswitze[at]ucsd[dot]edu<br/>
 [Google Scholar](https://scholar.google.com/citations?user=G4g9E3UAAAAJ&hl=en)<br/>
 [CV as of Sept 2022](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/cv.pdf)<br/>
 
-Last updated 9-30-2022.
+Last updated 10-18-2023.
