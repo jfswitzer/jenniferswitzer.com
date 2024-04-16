@@ -1,5 +1,5 @@
 ## About me
-I am a fourth year PhD student in Computer Science and Engineering at UCSD, with a research focus on sustainable computing. I am co-advised by Professors Ryan Kastner and Pat Pannuto. 
+I am a fourth year PhD candidate in Computer Science and Engineering at UCSD, with a research focus on sustainable computing. I am co-advised by Professors Ryan Kastner and Pat Pannuto. 
 
 I'm very grateful to be supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). 
 
