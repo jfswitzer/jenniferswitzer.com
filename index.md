@@ -1,5 +1,5 @@
 ## About me
-I am a fourth year PhD candidate in Computer Science and Engineering at UCSD, with a research focus on sustainable computing. I am co-advised by Professors Ryan Kastner and Pat Pannuto. 
+I am a fifth year PhD candidate in Computer Science and Engineering at UCSD, with a research focus on sustainable computing. I am co-advised by Professors Ryan Kastner and Pat Pannuto. 
 
 I'm very grateful to be supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/). 
 
@@ -10,6 +10,11 @@ I received an MEng and BS in computer science from MIT.
 **Junkyard Computing:** Manufacturing electronic devices is an energy-intensive process that dominates the lifetime carbon footprint of consumer electronics like smartphones. Options for dealing with end-of-life phones are limited, leading to a stockpile of environmentally costly, miniature computers. This is particularly unfortunate given that smartphones contain many components that could be useful for other applications—CPUs, GPUs, microphones, etc. Junkyard computing studies the repurposing of unwanted smartphones for a wide range of non-consumer applications. We are exploring two pathways: Datacenters and IoT. In the first, old phones are repurposed as general-purpose cloud compute nodes. In the second, they are redeployed as remote sensors. 
 
 ## Publications, etc 
+[Reducing the Carbon Footprint of EdTech with Repurposed Devices](documents/junkyard_edtech.pdf)<br/>
+_THE 15th International Green and Sustainable Computing Conference_</br>
+**Jennifer Switzer**, Subash Katel, Jaemok Christian Lee, Ashwin Rohit Alagiri Rajan, Ryan Kastner, Pat Pannuto<br/>
+[Slides](https://docs.google.com/presentation/d/1-SF5uBuDggZTPqX9FWZ55XSea1_2c3rm6uuPX5BKbCI/edit?usp=sharing)
+
 [Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon\*\*](https://dl.acm.org/doi/10.1145/3575693.3575710)<br/>
 **Jennifer Switzer**, Gabriel Marcano, Ryan Kastner, Pat Pannuto<br/>
 _International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)._<br/>
