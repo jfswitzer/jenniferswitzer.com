@@ -60,4 +60,4 @@ jfswitze[at]ucsd[dot]edu<br/>
 [Google Scholar](https://scholar.google.com/citations?user=G4g9E3UAAAAJ&hl=en)<br/>
 [CV as of Sept 2022](https://github.com/jfswitzer/jenniferswitzer.com/blob/main/documents/cv.pdf)<br/>
 
-Last updated 10-18-2023.
+Last updated 10-30-2024.
