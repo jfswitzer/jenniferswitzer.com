@@ -15,10 +15,11 @@ _THE 15th International Green and Sustainable Computing Conference_</br>
 **Jennifer Switzer**, Subash Katel, Jaemok Christian Lee, Ashwin Rohit Alagiri Rajan, Ryan Kastner, Pat Pannuto<br/>
 [Slides](https://docs.google.com/presentation/d/1-SF5uBuDggZTPqX9FWZ55XSea1_2c3rm6uuPX5BKbCI/edit?usp=sharing)
 
-[Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon\*\*](https://dl.acm.org/doi/10.1145/3575693.3575710)<br/>
+[Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon\*\*](documents/Architecture_of_a_Junkyard_Cloud_Cloud—fixed.pdf.pdf)<br/>
 **Jennifer Switzer**, Gabriel Marcano, Ryan Kastner, Pat Pannuto<br/>
 _International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)._<br/>
-\*\*This paper won a Distinguished Paper Award. 
+\*\*This paper won a Distinguished Paper Award.<br/>
+[Slides](https://docs.google.com/presentation/d/1YhSTBBJGLWjHp9q-gNNOT9JIXx7vKMoqLiNZZuKu8yE/edit?usp=sharing) & [Talk recording](https://youtu.be/XDz9QJ0JvUM?si=4wyx-BAdDxZVoAXu)
 
 [Renée: New Life for Old Phones](https://ieeexplore.ieee.org/document/9695989)<br/>
 **J. Switzer**, E. Siu, S. Ramesh, R. Hu, E. Zadorian and R. Kastner<br/>
